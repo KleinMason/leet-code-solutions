@@ -36,11 +36,13 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 
 <strong>Constraints:</strong>
 
-nums1.length == m + n
-nums2.length == n
-0 <= m, n <= 200
-1 <= m + n <= 200
--109 <= nums1[i], nums2[j] <= 109
- 
+<ul>
+<li><code>nums1.length == m + n</code></li>
+<li><code>nums2.length == n</code></li>
+<li><code>0 <= m, n <= 200</code></li>
+<li><code>1 <= m + n <= 200</code></li>
+<li><code>-109 <= nums1[i], nums2[j] <= 109</code></li>
+</ul>
+
 
 <strong>Follow up:</strong> Can you come up with an algorithm that runs in O(m + n) time?
